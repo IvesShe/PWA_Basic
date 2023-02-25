@@ -1,0 +1,15 @@
+{
+    "name":"ives APP PWA",
+    "short_name":"ives APP",
+    "start_url":"/index.html",
+    "icons":[
+        {
+            "src":"images/logo.png",
+            "sizes":"144x144",
+            "type":"image/png"
+        }
+    ],
+    "background_color":"skyblue",
+    "theme_color":"yellow",
+    "display":"standalone"
+}
