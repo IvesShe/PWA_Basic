@@ -1,7 +1,7 @@
 {
     "name":"ives APP PWA",
     "short_name":"ives APP",
-    "start_url":"/index.html",
+    "start_url":".",
     "icons":[
         {
             "src":"images/logo.png",
