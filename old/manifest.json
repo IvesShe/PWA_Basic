@@ -10,6 +10,6 @@
         }
     ],
     "background_color":"skyblue",
-    "theme_color":"gray",
+    "theme_color":"yellow",
     "display":"standalone"
 }

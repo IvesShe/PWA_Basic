@@ -18,3 +18,8 @@ Discover network targets
 http://localhost:5500/
 
 ## 開啟虛擬機測試
+
+
+# 上傳至Github
+
+https://ivesshe.github.io/PWA_Basic/
